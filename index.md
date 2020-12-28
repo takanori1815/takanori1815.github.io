@@ -4,9 +4,9 @@
 どんなことができる、したいのか。
 
 ## Profile
-- 名前（ハンドルネームも可）
-- 所在地（県や市まででOK）
-- 得意領域（Web開発、サーバー運用など）
+- takanori
+- 愛知県
+- 得意領域なし
 # Skills
 使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
 - OS（Windows,Ubuntuなど）
@@ -31,6 +31,5 @@
 
 # History
 学歴、職歴、アルバイト、インターン経験など。
-- 2019年 [株式会社ドワンゴ](URL) 入社
-- 2018年 角川ドワンゴ学園 [N高等学校](URL) 卒業
-- 表彰、受賞歴、メディア掲載記事などあれば
+- N工大
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/asews35945840?ref_src=twsrc%5Etfw">Tweets by asews35945840</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
